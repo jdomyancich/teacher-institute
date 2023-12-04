@@ -48,4 +48,4 @@ bqplot
 pyarrow==12.0.1
 
 #
-python -m pip install -r requirements.txt
+jupyterlab-nbextension
