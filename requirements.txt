@@ -48,4 +48,4 @@ bqplot
 pyarrow==12.0.1
 
 #
-pip install jupyter_contrib_nbextensions
+%pip install jupyter_contrib_nbextensions
