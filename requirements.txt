@@ -48,4 +48,4 @@ bqplot
 pyarrow==12.0.1
 
 #
-%pip install -q jupyter_contrib_nbextensions
+pip install https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tarball/master
