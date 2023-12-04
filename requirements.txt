@@ -48,6 +48,5 @@ bqplot
 pyarrow==12.0.1
 
 #
-pip install jupyter_latex_envs --upgrade [--user|sys-prefix]
-jupyter nbextension install --py latex_envs --user
-jupyter nbextension enable latex_envs --user --py
+jupyter nbextension install https://rawgit.com/jfbercher/jupyter_nbTranslate/master/nbTranslate.zip
+jupyter nbextension enable nbTranslate/main
