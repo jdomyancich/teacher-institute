@@ -48,5 +48,4 @@ bqplot
 pyarrow==12.0.1
 
 #
-jupyter nbextension install https://rawgit.com/jfbercher/jupyter_nbTranslate/master/nbTranslate.zip
-jupyter nbextension enable nbTranslate/main
+pip install jupyter_contrib_nbextensions
